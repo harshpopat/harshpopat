@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on react js
 - 📫 You can reach me here:
       - [Linkedin](https://www.linkedin.com/in/harshpopat/)
-      - [twitter](https://twitter.com/harshpopat99)
+      - [Twitter](https://twitter.com/harshpopat99)
 
 
 
