@@ -6,8 +6,8 @@
 - 🌱 I believe in learning and growing everyday
 - 🔭 I’m currently working on react js
 - 📫 You can reach me here:
--       [Linkedin](https://www.linkedin.com/in/harshpopat/)
--       [twitter](https://twitter.com/harshpopat99)
+      - [Linkedin](https://www.linkedin.com/in/harshpopat/)
+      - [twitter](https://twitter.com/harshpopat99)
 
 
 
