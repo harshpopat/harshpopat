@@ -5,9 +5,9 @@
 - ⚡ I love programming, design and books
 - 🌱 I believe in learning and growing everyday
 - 🔭 I’m currently working on react js
-- 📫 You can reach me here:
-  - [Portfolio Website](https://harshpopat.in/)
-  - [Linkedin](https://www.linkedin.com/in/harshpopat/)
-  - [Twitter](https://twitter.com/harshpopat99)
+> 📫 You can reach me here:
+  >> [Portfolio Website](https://harshpopat.in/)
+  >> [Linkedin](https://www.linkedin.com/in/harshpopat/)
+  >> [Twitter](https://twitter.com/harshpopat99)
 
 
