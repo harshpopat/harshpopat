@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-- :computer: I am a Web Developer
-- ⚡ I love programming, design and books
+- :computer: I am a Product Designer
+- ⚡ I love design, tech and books
 - 🌱 I believe in learning and growing everyday
-- 🔭 I’m currently working on react js
 ### 📫 You can reach me here:
   - [Portfolio Website](https://harshpopat.in/)
   - [Linkedin](https://www.linkedin.com/in/harshpopat/)
